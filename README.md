@@ -4,9 +4,8 @@ Yash Patel</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpatel1797&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel1797" /> </p>
 
-- 🔭 I’m currently working on Social media project.
-- 🌱 I’m currently learning React Js, TypeScript
-- 💬 Ask me about Javascript and React Js
+- 🔭 I’m currently working at Filecloud.
+- 💬 Ask me about VueJs, Javascript, ReactJs.
 - 📫 How to reach me **yes.g.patel@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
